@@ -20,3 +20,6 @@ Propriedades de vetores:
 práticas, podemos citar um caso onde plotamos duas características num gráfico e geramos observações próximas de um eixo específico alternativo. Ao rotacionar os eixos, conseguimos valorizar mais os resultados de cada 
 eixo individualmente (se conseguir separar os dados de forma ótima com uma reta transversal aos dois eixos, talvez a rotação dos eixos - mudança de base - melhore a percepção do modelo em relação aos dados. Já existem 
 bibliotecas com algoritmos prontos que automaticamente definem os melhores eixos para o problema em questão.
+
+- Todos os pontos de um espaço vetorlal podem ser representados pela combinação linear entre os vetores ([1,0], [0,1]), portanto esses vetores GERAM UM ESPAÇO VETORIAL. Outras bases que tornem isso impossível, não geram 
+um espaço. Se os vetores fossem ([1,0], [3,0]), eles seriam linearmente dependentes (o segundo não aumenta o espaço vetorial do primeiro).
