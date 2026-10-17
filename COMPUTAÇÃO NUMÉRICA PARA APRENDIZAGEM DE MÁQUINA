@@ -7,3 +7,5 @@ de muitos cálculos que hoje desenvolvemos apenas aplicando bibliotecas, mas ao 
 
 Vetores e matrizes têm um papel central em deep learning. Há um exemplo de neurônio chamado Perceptron que aplica conceitos de vetores na conceituação. NVIDIA, por exemplo, tem como principal produto GPUs, utilizadas 
 basicamente para multiplicar de forma rápida matrizes. Hoje são fundamentais para treinamento de modelos de IA, por exemplo.
+
+Toda função de deep learning é, na verdade, uma minimização de erro. É uma grande função onde se busca seu mínimo.
