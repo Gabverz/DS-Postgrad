@@ -23,4 +23,5 @@ bibliotecas com algoritmos prontos que automaticamente definem os melhores eixos
 
 - Todos os pontos de um espaço vetorlal podem ser representados pela combinação linear entre os vetores ([1,0], [0,1]), portanto esses vetores GERAM UM ESPAÇO VETORIAL. Outras bases que tornem isso impossível, não geram 
 um espaço. Se os vetores fossem ([1,0], [3,0]), eles seriam linearmente dependentes (o segundo não aumenta o espaço vetorial do primeiro). Se em um conjunto de vetores houver ao menos um "redundante" (ou seja, que não 
-aumente o espaço vetorial definido), já serão linearmente dependentes. Se os três forem necessários para gerar aquele espaço vetorial, o conjunto é linearmente independente.
+aumente o espaço vetorial definido), já serão linearmente dependentes. Se os três forem necessários para gerar aquele espaço vetorial, o conjunto é linearmente independente. Uma base de um espaço vetorial é um conjunto 
+de vetores linearmente independentes que geram o espaço.
