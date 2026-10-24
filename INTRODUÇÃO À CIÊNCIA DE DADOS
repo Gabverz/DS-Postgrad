@@ -13,3 +13,7 @@ Aula 3
 Interessante: há uma variação do boxplot, chamado de gráfico de violino. Ele reflete as amostras de forma um pouco diferente, utilizando também o eixo x para definir o valor de frequência
 dentro de cada faixa de valores do conjunto.
 
+Outro gráfico interessante é o mapa de calor, que é um gráfico que reflete a correlação entre variáveis a partir de sua variância, para todo o conjunto de variáveis definido (pode ser toda 
+a base de dados).
+
+
