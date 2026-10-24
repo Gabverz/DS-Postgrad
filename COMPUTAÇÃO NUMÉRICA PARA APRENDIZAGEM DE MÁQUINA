@@ -2,6 +2,8 @@ Professor: Adenilton Silva
 
 e-mail: ajsilva@cin.ufpe.br
 
+Aula 1
+
 Professor na primeira aula fez um tour pelo centro, convesou com todos e deu dicas básicas da parte ADM necessária para acessar os benefícios e funcionalidades do centro. A ideia da disciplina será entender os porquês 
 de muitos cálculos que hoje desenvolvemos apenas aplicando bibliotecas, mas ao final do curso poderemos aplicá-las do zero. Como exemplo, citou Gradient Descent.
 
@@ -25,3 +27,9 @@ bibliotecas com algoritmos prontos que automaticamente definem os melhores eixos
 um espaço. Se os vetores fossem ([1,0], [3,0]), eles seriam linearmente dependentes (o segundo não aumenta o espaço vetorial do primeiro). Se em um conjunto de vetores houver ao menos um "redundante" (ou seja, que não 
 aumente o espaço vetorial definido), já serão linearmente dependentes. Se os três forem necessários para gerar aquele espaço vetorial, o conjunto é linearmente independente. Uma base de um espaço vetorial é um conjunto 
 de vetores linearmente independentes que geram o espaço.
+
+Aula 2
+
+Na aula 2 foi realizada uma revisão da primeira aula inicialmente. Gravação disponível no classroom.
+
+Em seguida, foram apresentados mais conceitos como reflexão e rotação de vetores, e suas potenciais aplicações no mercado de dados.
