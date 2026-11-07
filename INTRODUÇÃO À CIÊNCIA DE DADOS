@@ -43,5 +43,16 @@ poderia transformar em outras 10 colunas como tamanho, iDH, PIB etc.
 - Quantitativos para qualitativos: discretização, por proporção, por largura.
 - Transformação de valores numéricos: Aplicação de funções, por exemplo log, módulo, raiz etc.
 - Normalização: é uma padronização dos dados em uma determinada característica. Feito para melhorar a distribuição dos dados e permitir que modelos sensíveis consigam capturar as informações
-necessárias.
+necessárias. Por escala: min/man, por escala, Z-score (StandardScaler).
+- Normalização diferente de padronização.
+
+- Importante: a escala dos dados é importante se avaliada de acordo com o problema em questão. Se há uma variável cuja escala é maior mas sua importância também, de preferência na mesma proporção,
+é recomendável manter esta diferença. O modelo, desta forma, absorve os sinais com a diferença de proporcionalidade.
+
+
+
+
+
+
+
 
