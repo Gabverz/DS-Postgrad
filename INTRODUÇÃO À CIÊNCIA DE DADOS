@@ -39,5 +39,8 @@ Conversão de valores entre diferentes tipos:
 - Encoding (label, onehot etc). 
 - Pseudo-atributos: Transformar uma coluna categórica com muitos valores únicos em um número menor de colunas diferentes que descrevem unicamente a variável original. Ex: cidades de um país,
 poderia transformar em outras 10 colunas como tamanho, iDH, PIB etc.
-- Sequências biológicas: 
+- Sequências biológicas: Particionar sequencias e traduzir em frequência de nucleotídeos por parte.
+- Quantitativos para qualitativos: discretização, por proporção, por largura.
+- Transformação de valores numéricos: Aplicação de funções, por exemplo log, módulo, raiz etc.
+- Normalização: é uma padronização dos dados em uma determinada característica.
 
