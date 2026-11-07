@@ -54,7 +54,8 @@ necessárias. Por escala: min/man, por escala, Z-score (StandardScaler).
 
 Amostragem de dados:
 Para conseguir rodar seu programa de forma eficiente com um custo adequado, pode ser utilizada uma técnica de amostragem que contemple uma visão geral representativa de sua base inicial.
-
+- Pode ser uma amostragem aleatória, estratificada (mantendo proporção ou de mesmo número - onde a quantidade de objetos de cada classe é igualada).
+- Amostragem progressova: análise utilizando um loop e comparando a representatividade da amostra com diferentes tamanhos ao conjunto original, pode ser por desvpad ou outra característica.
 
 
 
