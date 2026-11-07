@@ -44,3 +44,4 @@ Inicio da aula com um resumo de ontem sobre gradiente descendente e aplicação 
 
 Gradiente descendente de múltiplas variáveis:
 Exemplo das curvas de nível. O vetor gradiente aponta sempre perpendicular às curvas e o sinal indica se é máximo (+) ou mínimo (-).
+Basicamente é feito o processo para todas as variáveis de forma individual, onde devem ser calculadas as derivadas parciais.
