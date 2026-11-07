@@ -34,3 +34,6 @@ Identificações indiretas: contatos em redes sociais, local de trabalho, funç�
 
 Aprendizado federado: modelos de IA são gerados para sunconjuntos de dados armazenados em locais diferentes e enviados a uma central - em vez dos proprios dados. Quem está em um local não 
 acessa os dados dos outros. 
+
+Conversão de valores entre diferentes tipos:
+- Encoding (label, onehot etc). 
