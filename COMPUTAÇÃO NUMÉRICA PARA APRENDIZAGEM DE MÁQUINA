@@ -48,3 +48,5 @@ Exemplo das curvas de nível. O vetor gradiente aponta sempre perpendicular às 
 Basicamente é feito o processo para todas as variáveis de forma individual, onde devem ser calculadas as derivadas parciais. Interessante que a taxa de aprendizado pode ser boa para uma variável
 mas não para outra, isso depende da própria equação das derivadas de cada um. Inclusive esta é a razão para que seja necessário normalizar dados, pois dados com escalas muito diferentes podem gerar 
 funções de custo com taxas muito diferentes entre si, e desta forma a convergência global é prejudicada.
+
+Após intervalo, montagem de uma rede neural simples com apenas um neurônio.
