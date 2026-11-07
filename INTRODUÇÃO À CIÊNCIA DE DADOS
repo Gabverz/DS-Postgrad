@@ -32,3 +32,5 @@ Anonimização:
 Identificações diretas e que podem (e geralmente são) classificadas como informações sensíveis: Nome, e-mail, endereço, foto, dados biométricos, CPF etc.
 Identificações indiretas: contatos em redes sociais, local de trabalho, função, salário, exames clínicos, notas em disciplinas etc.
 
+Aprendizado federado: modelos de IA são gerados para sunconjuntos de dados armazenados em locais diferentes e enviados a uma central - em vez dos proprios dados. Quem está em um local não 
+acessa os dados dos outros. 
