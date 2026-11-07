@@ -21,3 +21,9 @@ Aula 4
 
 Resumo referente a engenharia de dados (focado na ultima aula em qualidade e gráficos).
 Esta aula: transformação de dados, onde transformamos os dados em outros, que tenham maior significado para o estudo.
+
+Tipos de transformação em CD:
+- Anonimização de dados
+- Conversão de valores entre diferentes tipos
+- Normalização de valores numéricos
+- Tradução de valores de atributos
