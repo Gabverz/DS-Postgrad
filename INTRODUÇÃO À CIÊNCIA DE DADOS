@@ -57,7 +57,8 @@ Para conseguir rodar seu programa de forma eficiente com um custo adequado, pode
 - Pode ser uma amostragem aleatória, estratificada (mantendo proporção ou de mesmo número - onde a quantidade de objetos de cada classe é igualada).
 - Amostragem progressiva: análise utilizando um loop e comparando a representatividade da amostra com diferentes tamanhos ao conjunto original, pode ser por desvpad ou outra característica.
 - Hold-out: mais tradicional, padrão 70/30 ou 80/20. A depender dos conjuntos as distribuições podem diferir. Uma única amostragem pode não ser confiável. Pode ser repetido várias vezes por
-reamostragem (cross-validation - k-folds, random subsampling, leave-one-out, bootstrap).
+reamostragem (random subsampling, cross-validation - k-folds (pode ser stratified, nested, time series etc), leave-one-out (pequenos datasets), bootstrap (mede incerteza do modelo)).
+- Definição de hiperparâmetros: feita num conjunto de validação. 
 
 ** PROTOCOLO EXPERIMENTAL: Como está sendo executado o protocolo do seu experimento (tratamentos, modelagem etc - PIPELINE) para gerar o seu resultado final.
 
