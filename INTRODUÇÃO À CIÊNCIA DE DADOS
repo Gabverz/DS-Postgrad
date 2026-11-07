@@ -52,7 +52,8 @@ necessárias. Por escala: min/man, por escala, Z-score (StandardScaler).
 - Importante: a escala dos dados é importante se avaliada de acordo com o problema em questão. Se há uma variável cuja escala é maior mas sua importância também, de preferência na mesma proporção,
 é recomendável manter esta diferença. O modelo, desta forma, absorve os sinais com a diferença de proporcionalidade.
 
-
+Amostragem de dados:
+Para conseguir rodar seu programa de forma eficiente com um custo adequado, pode ser utilizada uma técnica de amostragem que contemple uma visão geral representativa de sua base inicial.
 
 
 
