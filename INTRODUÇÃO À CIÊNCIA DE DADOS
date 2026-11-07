@@ -42,5 +42,6 @@ poderia transformar em outras 10 colunas como tamanho, iDH, PIB etc.
 - Sequências biológicas: Particionar sequencias e traduzir em frequência de nucleotídeos por parte.
 - Quantitativos para qualitativos: discretização, por proporção, por largura.
 - Transformação de valores numéricos: Aplicação de funções, por exemplo log, módulo, raiz etc.
-- Normalização: é uma padronização dos dados em uma determinada característica.
+- Normalização: é uma padronização dos dados em uma determinada característica. Feito para melhorar a distribuição dos dados e permitir que modelos sensíveis consigam capturar as informações
+necessárias.
 
