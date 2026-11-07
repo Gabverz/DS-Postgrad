@@ -40,4 +40,7 @@ Revisão sobre derivadas e explicações sobre derivadas parciais e gradiente de
 
 Aula 4
 
-Inicio da aula com um resumo de ontem sobre gradiente descendente e aplicação prática em python.
+Inicio da aula com um resumo de ontem sobre gradiente descendente e aplicação prática em python. Aplicadas as equações do pdf da aula no colab e como isso gera a otimização da reta.
+
+Gradiente descendente de múltiplas variáveis:
+Exemplo das curvas de nível. O vetor gradiente aponta sempre perpendicular às curvas e o sinal indica se é máximo (+) ou mínimo (-).
