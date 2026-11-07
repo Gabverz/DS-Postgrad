@@ -60,6 +60,10 @@ Para conseguir rodar seu programa de forma eficiente com um custo adequado, pode
 reamostragem (random subsampling, cross-validation - k-folds (pode ser stratified, nested, time series etc), leave-one-out (pequenos datasets), bootstrap (mede incerteza do modelo)).
 - Definição de hiperparâmetros: feita num conjunto de validação. 
 
+- Oversampling (SMOTE - média entre duas amostras minoritárias, ADASYN - estudar, em regressão)
+- Undersampling (ENN - Edited Nearest Neighbors, NCL - Neighborhood Cleaning Rule). Pode também aplicar um K-means (cria grupos dentro das amostras) e em seguida remove objetos de cada grupo
+de forma aleatória.
+
 ** PROTOCOLO EXPERIMENTAL: Como está sendo executado o protocolo do seu experimento (tratamentos, modelagem etc - PIPELINE) para gerar o seu resultado final.
 
 
