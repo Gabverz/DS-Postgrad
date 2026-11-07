@@ -27,3 +27,8 @@ Tipos de transformação em CD:
 - Conversão de valores entre diferentes tipos
 - Normalização de valores numéricos
 - Tradução de valores de atributos
+
+Anonimização: 
+Identificações diretas e que podem (e geralmente são) classificadas como informações sensíveis: Nome, e-mail, endereço, foto, dados biométricos, CPF etc.
+Identificações indiretas: contatos em redes sociais, local de trabalho, função, salário, exames clínicos, notas em disciplinas etc.
+
