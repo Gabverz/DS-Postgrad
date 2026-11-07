@@ -66,5 +66,9 @@ de forma aleatória.
 
 ** PROTOCOLO EXPERIMENTAL: Como está sendo executado o protocolo do seu experimento (tratamentos, modelagem etc - PIPELINE) para gerar o seu resultado final.
 
+MODELAGEM DE DADOS:
+Um modelo bom se adequa aos dados ainda mantendo uma distância mínima deles, de forma a generalizar bem novos conjuntos.
+A definição de Mitchell: ETP - Experience, Task, Performance.
+
 
 
