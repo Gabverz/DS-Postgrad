@@ -37,3 +37,7 @@ acessa os dados dos outros.
 
 Conversão de valores entre diferentes tipos:
 - Encoding (label, onehot etc). 
+- Pseudo-atributos: Transformar uma coluna categórica com muitos valores únicos em um número menor de colunas diferentes que descrevem unicamente a variável original. Ex: cidades de um país,
+poderia transformar em outras 10 colunas como tamanho, iDH, PIB etc.
+- Sequências biológicas: 
+
